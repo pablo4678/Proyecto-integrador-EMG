@@ -1,7 +1,7 @@
 # Proyecto-integrador-EMG
 
 
-```
+```python
 from scipy.stats import ttest_rel
 import numpy as np
 
