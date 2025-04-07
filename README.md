@@ -1,6 +1,7 @@
 # Proyecto-integrador-EMG
 
-"""
+
+```
 from scipy.stats import ttest_rel
 import numpy as np
 
@@ -18,5 +19,5 @@ def evaluate_fatigue_first_last(freq_medians):
     test_name = "Prueba T de Student pareada"
     
     return t_stat, p_value, test_name, (first, last)
+```
 
-"""
